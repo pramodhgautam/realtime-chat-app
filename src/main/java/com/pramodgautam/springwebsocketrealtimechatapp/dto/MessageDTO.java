@@ -1,4 +1,4 @@
-package com.arisusantolie.springwebsocketrealtimechatapp.dto;
+package com.pramodgautam.springwebsocketrealtimechatapp.dto;
 
 public class MessageDTO {
     private String message;

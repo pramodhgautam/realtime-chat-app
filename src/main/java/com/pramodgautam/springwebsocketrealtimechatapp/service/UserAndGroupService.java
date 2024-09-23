@@ -1,4 +1,4 @@
-package com.arisusantolie.springwebsocketrealtimechatapp.service;
+package com.pramodgautam.springwebsocketrealtimechatapp.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

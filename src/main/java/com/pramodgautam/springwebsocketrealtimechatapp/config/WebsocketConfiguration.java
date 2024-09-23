@@ -1,4 +1,4 @@
-package com.arisusantolie.springwebsocketrealtimechatapp.config;
+package com.pramodgautam.springwebsocketrealtimechatapp.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

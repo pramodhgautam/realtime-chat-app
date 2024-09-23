@@ -1,7 +1,7 @@
-package com.arisusantolie.springwebsocketrealtimechatapp.service;
+package com.pramodgautam.springwebsocketrealtimechatapp.service;
 
-import com.arisusantolie.springwebsocketrealtimechatapp.dto.MessageDTO;
-import com.arisusantolie.springwebsocketrealtimechatapp.dto.MessageGroupDTO;
+import com.pramodgautam.springwebsocketrealtimechatapp.dto.MessageDTO;
+import com.pramodgautam.springwebsocketrealtimechatapp.dto.MessageGroupDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.messaging.simp.SimpMessagingTemplate;

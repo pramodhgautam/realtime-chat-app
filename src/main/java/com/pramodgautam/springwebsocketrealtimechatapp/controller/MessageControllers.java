@@ -1,9 +1,9 @@
-package com.arisusantolie.springwebsocketrealtimechatapp.controller;
+package com.pramodgautam.springwebsocketrealtimechatapp.controller;
 
-import com.arisusantolie.springwebsocketrealtimechatapp.dto.MessageDTO;
-import com.arisusantolie.springwebsocketrealtimechatapp.dto.MessageGroupDTO;
-import com.arisusantolie.springwebsocketrealtimechatapp.service.MessageService;
-import com.arisusantolie.springwebsocketrealtimechatapp.service.UserAndGroupService;
+import com.pramodgautam.springwebsocketrealtimechatapp.dto.MessageDTO;
+import com.pramodgautam.springwebsocketrealtimechatapp.dto.MessageGroupDTO;
+import com.pramodgautam.springwebsocketrealtimechatapp.service.MessageService;
+import com.pramodgautam.springwebsocketrealtimechatapp.service.UserAndGroupService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.handler.annotation.DestinationVariable;
 import org.springframework.messaging.handler.annotation.MessageMapping;

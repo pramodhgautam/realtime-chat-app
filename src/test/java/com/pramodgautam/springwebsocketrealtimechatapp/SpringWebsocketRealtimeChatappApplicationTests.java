@@ -1,4 +1,4 @@
-package com.arisusantolie.springwebsocketrealtimechatapp;
+package com.pramodgautam.springwebsocketrealtimechatapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
